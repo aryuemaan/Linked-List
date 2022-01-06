@@ -262,5 +262,4 @@ void display()
             ptr = ptr -> next;  
         }  
     }  
-}     
-         
+}
