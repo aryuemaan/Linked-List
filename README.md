@@ -1,5 +1,5 @@
 # Linked-List
 Data structures()
 {
-Created a doubly linked list C program with Data Structures 
+Created a doubly linked list program with Data Structures 
 }
